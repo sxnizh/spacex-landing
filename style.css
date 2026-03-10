@@ -1,0 +1,13 @@
+:root {
+    --bs-body-bg: #010001;
+    --bs-body-color: #fff;
+}
+
+.mt-220px {
+    margin-top: 220px;
+}
+
+.custom-btn{
+    border: 1px solid #fff;
+    padding: 10px 70px;
+}
